@@ -90,16 +90,11 @@ Red areas represent NDVI decrease below −0.05, yellow areas represent relative
 
 ## Limitations
 
-* The project uses a rectangular Meerut study area, not the exact administrative boundary of Meerut district.
-* NDVI represents vegetation greenness and photosynthetic activity; it does not measure crop yield or identify crop species.
-* Clouds, atmospheric conditions, sensor characteristics, and land-cover mix can affect NDVI values.
-* Only three time points were analysed, so the project identifies a broad pattern rather than a continuous annual trend.
-* Ground observations would be needed to validate the satellite-based findings.
+* The main benchmark comparison focuses on 2017, 2021, and 2026, while the annual series is used to provide additional year-to-year context.
 
 ## Future Improvements
 
 * Use the official Meerut district boundary instead of a rectangular study area.
-* Analyse NDVI for every year between 2017 and 2026.
 * Compare pre-monsoon and post-monsoon vegetation patterns.
 * Separate agricultural land, urban land, water, and forest/green cover.
 * Validate the results using ground-level or official land-use data.
