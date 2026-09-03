@@ -42,9 +42,9 @@ These findings show an observed satellite-derived vegetation-greenness pattern. 
 
 NDVI measures vegetation greenness using the difference between near-infrared and red-light reflectance:
 
-[
+$$
 NDVI = \frac{NIR - Red}{NIR + Red}
-]
+$$
 
 Healthy vegetation absorbs red light for photosynthesis and strongly reflects near-infrared (NIR) energy. Therefore, higher NDVI values generally indicate denser and more photosynthetically active vegetation.
 
